@@ -1,0 +1,10 @@
+openai-agents==0.2.3
+pydantic
+asyncio
+dotenv
+fastapi
+uvicorn
+openai==1.97.1
+requests
+websockets
+streamlit
